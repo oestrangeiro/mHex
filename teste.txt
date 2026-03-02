@@ -1,0 +1,4 @@
+ESTE É UM EXEMPLO DE DADOS EM UM ARQUIVO QUE PODE SER VISUALIZADO
+NO PROGRAMA "mHex"!
+
+@author: Mateus "oestrangeiro"
