@@ -13,4 +13,3 @@
 <p>Para manipular a paginação, o usuário pode usar o argumento opcional <code>-p</code> seguido de um número</p>
 <p>Exemplo:</p>
 <code>./mHex -f file.txt -p 10</code> para que o programa imprima 10 linhas por vez
-
