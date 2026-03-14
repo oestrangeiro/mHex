@@ -6,7 +6,11 @@
 <code>gcc main.c -o mHex</code>
 
 <h2>Uso:</h2>
-<code>./mHex nome_do_arquivo</code>
+<code>./mHex -f nome_do_arquivo</code>
 
-<h1>Dica:</h1>
-<p>Dentro do código, foi implementada um sistema simples de paginação à cada 16 linhas, para utilizá-lo, basta descomentar as linhas. O uso da paginação é ideal para arquivos muito grandes, uma vez que sem ela, o programa cospe todo o hexadecimal na tela sem dar tempo de uma análise por parte do usuário</p>
+
+<h2>Dica:</h2>
+<p>Para manipular a paginação, o usuário pode usar o argumento opcional <code>-p</code> seguido de um número</p>
+<p>Exemplo:</p>
+<code>./mHex -f file.txt -p 10</code> para que o programa imprima 10 linhas por vez
+
