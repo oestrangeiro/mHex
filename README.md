@@ -1,6 +1,6 @@
 <h1>mHex - Leitor de hexadecimal</h1><br>
 <p>Exemplo de uso</p>
-<img width="664" height="430" alt="image" src="https://github.com/user-attachments/assets/a6e6364c-9d6f-446c-bdc2-fbde31b20dc2" />
+<img width="664" height="430" alt="image" src="src/assets_readme/mhex-use.png"/>
 
 <h2>Para compilar:</h2>
 <code>gcc main.c -o mHex</code>
